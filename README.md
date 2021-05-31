@@ -1,2 +1,2 @@
 # Frontend-Mentor-Challenges
- This repository contains solutions to Frontend Mentor challenges
+ This repository contains solutions to Frontend Mentor challenges.
