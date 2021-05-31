@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://divyaaa123.github.io/Frontend-Mentor-Challenges/3-column-preview-card-component-main/)
 
 ### Built with
 
