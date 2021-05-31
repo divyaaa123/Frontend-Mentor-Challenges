@@ -1,0 +1,131 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    
+body{
+    margin: 0px;
+    background-color: hsl(233, 47%, 7%);
+} 
+
+.heading{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+.image-side-mobile{
+display: none;
+padding: 0%;
+position: relative;
+}
+
+.text-side{
+    padding: 70px;
+    padding-right: 80px;
+}
+.image-side{
+    padding: 0%;
+    position: relative;
+    
+}
+.image1{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.image-side-mobile .color{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.color{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background: hsla(277, 64%, 61%, 0.65);
+}
+.image{
+    /* position: relative; */
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+.image-side .color{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.main{
+    margin: 120px 100px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+}
+.text{
+    color:hsla(0, 0%, 100%, 0.75);
+   
+    font-family: 'Inter', sans-serif;
+    margin: 30px 0 70px;
+}
+.insight{
+color:hsl(277, 64%, 61%);
+}
+.white{
+    color: hsl(0, 0%, 100%);
+}
+.white .h{
+    color: hsl(0, 0%, 100%);
+}
+.statall {
+    margin-top: 30px;
+}
+
+.stat .h{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 1.4rem;
+}
+.stat-head{
+    font-family: 'Inter', sans-serif;
+    color:hsla(0, 0%, 100%, 0.6);
+    font-weight: 400;
+    font-size: small;
+
+    
+
+}
+@media (max-width: 400px){
+.image-side{
+    display: none;
+   
+}
+.image-side-mobile{
+display: block;
+
+/* object-fit: cover;
+mix-blend-mode: multiply; */
+}
+
+.main{
+margin: 100px 20px;
+text-align: center;
+}
+.text-side{
+    padding: 15px;
+    padding-top: 30px;
+}
+.statall{
+   
+    margin:0 auto 10px;
+}
+.stat{
+    margin-bottom: 20px;
+}
+.images {
+    border-top-right-radius: 10px;
+    background-color: var(--soft-violet);
+}
+}
