@@ -23,6 +23,6 @@ Users should be able to:
 ![mobile-version](./screenshots/mobile-version.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Live Site](https://divyaaa123.github.io/Frontend-Mentor-Challenges/stats-preview-card-component-main/)
 
 
